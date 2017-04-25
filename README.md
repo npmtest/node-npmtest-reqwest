@@ -1,6 +1,6 @@
 # npmtest-reqwest
 
-#### test coverage for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmtest-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-reqwest.svg)](https://travis-ci.org/npmtest/node-npmtest-reqwest)
+#### basic test coverage for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmtest-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-reqwest.svg)](https://travis-ci.org/npmtest/node-npmtest-reqwest)
 
 #### A wrapper for asynchronous http requests
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-reqwest/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-reqwest/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-reqwest/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-reqwest/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-reqwest/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-reqwest/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-reqwest/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-reqwest/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-reqwest/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-reqwest/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-reqwest/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-reqwest/build/coverage.html/index.html)
 
@@ -102,7 +102,8 @@
             "make"
         ]
     },
-    "version": "2.0.5"
+    "version": "2.0.5",
+    "bin": {}
 }
 ```
 
